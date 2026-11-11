@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,3Doodler Needle
+directory,3Doodler_needle_yy
